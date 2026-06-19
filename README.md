@@ -8,23 +8,18 @@ A highly responsive, custom-styled e-commerce Product Listing & Detail page appl
 
 Ensure you have [Node.js](https://nodejs.org/) installed (v18+ recommended).
 
-1. **Navigate to the project root:**
-   ```bash
-   cd leegality
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
    ```bash
    npm install
    ```
 
-3. **Start the local development server:**
+2. **Start the local development server:**
    ```bash
    npm run dev
    ```
    Open your browser to `http://localhost:5173/`.
 
-4. **Build the production bundle:**
+3. **Build the production bundle:**
    ```bash
    npm run build
    ```
